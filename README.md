@@ -1,4 +1,4 @@
-** LenMus Roadmap **
+# LenMus Roadmap
 
 Este repo es usado por el [proyecto LenMus](https://github.com/lenmus/lenmus) para mantener y discutir las especificaciones y evolución del programa LenMus Phonascus.
 
